@@ -1,0 +1,4 @@
+ID;miti_id;title;prio;descr;criticality;supplier_businesspartner;createdAt;createdBy;modifiedAt;modifiedBy
+4333e9b5-56a3-4375-b36c-8d75c5e220eb;a15c099e-b0c8-4cab-951f-4eab81f7bcc7;CFR nom;1;22;2;3270;2024-02-27T10:30:47+0100;sefa;2024-02-27T10:30:47+0100;
+ef8d320e-39eb-468c-a8fa-e6a7c2168ea5;fa3fa548-f2e9-49ea-a0ea-20e0caf31484;SLA Vial;2;22;3;2803;2024-02-27T10:30:56+0100;sefa;2024-02-27T10:30:56+0100;
+2e347c2d-77fe-42e4-8dc0-b14aefc2c0fe;a15c099e-b0c8-4cab-951f-4eab81f7bcc7;Shipp;1;33;2;3510;2024-02-27T10:30:57+0100;sefa;2024-02-27T10:30:57+0100;
